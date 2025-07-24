@@ -1,0 +1,8 @@
+.galleryImages {
+    height: 200px;
+    transition: 0.3s;
+    margin-right: 10px;
+}
+.galleryImages:hover {
+    height: 250px;
+}
