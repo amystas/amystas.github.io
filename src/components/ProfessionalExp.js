@@ -2,7 +2,7 @@ import { BsFillCheckCircleFill } from 'react-icons/bs';
 
 const ProfessionalExp = () => {
   return (
-    <section id="professional" className="pt-16 pb-16 bg-rose-50">
+    <section id="experience" className="pt-16 pb-16 bg-rose-50">
       <div className="px-2 mb-12 text-center lg:mb-16">
         <h2>Professional Experience</h2>
         <p className="max-w-2xl px-4 mx-auto text-lg text-gray-800 sm:px-10 md:text-xl md:max-w-3xl md:px-0">
