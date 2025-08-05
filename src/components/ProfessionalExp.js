@@ -43,7 +43,7 @@ const ProfessionalExp = () => {
                 <BsFillCheckCircleFill color="pink" size="15" />
               </div>
               <span>
-                Look up the project <a href='https://github.com/HaveASeat-Sagra'>here</a>
+                Look up the project <a className="underline" href='https://github.com/HaveASeat-Sagra'>here</a>
               </span>
             </li>
           </ul>
