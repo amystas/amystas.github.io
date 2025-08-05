@@ -36,7 +36,7 @@ const Navigation = () => {
       >
         {/* Desktop Navigation */}
         <ul className="hidden md:flex items-center justify-center mx-auto space-x-12 font-semibold text-lg text-gray-800">
-          {['home', 'about', 'professional', 'education','projects'].map((item) => (
+          {['home', 'about', 'experience', 'education','projects'].map((item) => (
             <NavigationList key={item} link={`#${item}`} text={item.charAt(0).toUpperCase() + item.slice(1)} />
           ))}
 
@@ -71,7 +71,7 @@ const Navigation = () => {
       >
         <div className="flex flex-col items-center space-y-8 pt-12 pb-10 bg-white rounded-[35px] shadow-md transition-all duration-300">
           <ul className="flex flex-col space-y-8 text-lg font-medium">
-            {['home', 'about', 'professional', 'education', 'projects'].map((item) => (
+            {['home', 'about', 'professional', 'experience', 'projects'].map((item) => (
               <NavigationList
                 key={item}
                 link={`#${item}`}
