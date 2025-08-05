@@ -1,12 +1,12 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I made use of React and Tailwind CSS to create my portfolio site.
 
-Currently, two official plugins are available:
+Below is an image from the portfolio site:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![mfon](https://user-images.githubusercontent.com/105684251/209584592-01105f1d-a48d-4284-af37-12d324586607.png)
 
-## Expanding the ESLint configuration
+To get started with the project, simply clone the repo and then open your code editor and run the command `npm install` to install the packages. Then, run the command `npm start`
+to run the app in development mode. It will open http://localhost:3000 to view the website in your browser. The page will reload when you make changes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can view the site on http://mfonpeter.netlify.app/
