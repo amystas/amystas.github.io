@@ -41,7 +41,7 @@ const Navigation = () => {
           ))}
 
           <a
-            href="mailto:godimfon@gmail.com"
+            href="mailto:a.staszczyk@icloud.com"
             className="relative flex items-center space-x-1 px-5 py-2 text-white bg-gradient-to-r from-rose-400 to-rose-600 rounded-full outline-none transition-transform duration-300 after:inline-block after:w-full after:h-full after:absolute after:inset-0 after:bg-gradient-to-r after:from-rose-500 after:to-rose-700 after:rounded-full after:-z-10 after:transition-transform after:duration-500 hover:from-rose-500 hover:to-rose-700 hover:-translate-y-[3px] hover:shadow-2xl hover:after:scale-125 hover:after:opacity-0 focus:-translate-y-[1px]"
           >
             <li>Contact</li>
